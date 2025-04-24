@@ -74,7 +74,6 @@ Below is a preview of the animation generated during simulation:
 
 <p align="center"> <img src="media/Trompo1.gif" width="480"/> </p>
 <p align="center"> <img src="media/Trompo2.gif" width="480"/> </p>
-<p align="center"> <img src="media/Trompo_ruso.gif" width="480"/> </p>
 
 ## Citation
 ```
