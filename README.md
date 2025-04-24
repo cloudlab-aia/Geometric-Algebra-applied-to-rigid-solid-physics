@@ -64,7 +64,7 @@ An animation will be generated showing the motion of the symmetric top.
 
 - Kinetic energy remains constant (verified numerically).
 
-###Second Simulation
+### Second Simulation
 - Slight yz-component added to angular momentum.
 
 - Precession observed in the I₃ axis and energy remains conserved.
@@ -72,10 +72,12 @@ An animation will be generated showing the motion of the symmetric top.
 ## Animation
 Below is a preview of the animation generated during simulation:
 
-<p align="center"> <img src="media/symmetric_top_animation.gif" width="480"/> </p>
+<p align="center"> <img src="media/Trompo1.gif" width="480"/> </p>
+<p align="center"> <img src="media/Trompo2.gif" width="480"/> </p>
+<p align="center"> <img src="media/Trompo_ruso.gif" width="480"/> </p>
 ## Citation
 ```bibtex
-@article{munoz_david_PINN_2025,
+@article{munoz_david_GA_2025,
 	title = {Geometric Algebra as a Language for Physics: Application to Rigid Body Dynamics,
 	issn = {},
 	journal = {},
