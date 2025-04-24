@@ -12,7 +12,6 @@ This repository is organized as follows:
 - `symmetric_top_solver.py`: Main Python script with detailed step-by-step explanation and comments.
 - `figures/`: Contains simulation results and visualizations.
 - `media/`: Folder for the animation showing the top's precessional motion.
-- `TFG.pdf`: Full article describing the mathematical foundations and physical insights.
 
 The solution involves two simulations with different initial angular momentum vectors to demonstrate:
 1. Motion around the principal axis of inertia.
